@@ -1,0 +1,500 @@
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 196: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 199: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 199: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("sscanf")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 201: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 201: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("vfprintf")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 203: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 205: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 205: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("vprintf")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 207: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 209: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 209: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("vsprintf")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 212: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 215: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 221: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 221: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fgetc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 222: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 222: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fgets")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 224: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 224: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 224: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fputc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 225: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 225: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fputs")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 226: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 226: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("getc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 227: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 227: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("getchar")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 228: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("gets")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 229: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 229: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 229: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("putc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 230: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 230: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 230: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("putchar")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 231: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 231: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("puts")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 232: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 232: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 232: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("ungetc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 237: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fread")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 239: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fwrite")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 245: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 245: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fgetpos")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 246: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 246: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 247: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 246: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fseek")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 248: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 248: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fsetpos")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 249: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 249: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("ftell")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 250: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("rewind")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 255: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("clearerr")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 256: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 256: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("feof")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 257: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 257: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("ferror")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 258: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("perror")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 260: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 260: warning: (MISRA-C:2004 19.4/R) C macros shall only expand to a braced initialiser, a constant, a string literal, a parenthesised expression, a type qualifier, a storage class specifier, or a do-while-zero construct
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 261: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 261: warning: (MISRA-C:2004 19.4/R) C macros shall only expand to a braced initialiser, a constant, a string literal, a parenthesised expression, a type qualifier, a storage class specifier, or a do-while-zero construct
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 262: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 264: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 266: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 274: warning: (MISRA-C:2004 19.15/R) Precautions shall be taken in order to prevent the contents of a header file being included twice
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 55: warning: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 56: warning: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 57: warning: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 58: warning: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 62: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 62: warning: (MISRA-C:2004 5.7/A) No identifier name should be reused ("quot")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 62: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 62: warning: (MISRA-C:2004 5.7/A) No identifier name should be reused ("rem")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 62: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("div_t")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 64: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 64: warning: (MISRA-C:2004 5.7/A) No identifier name should be reused ("quot")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 64: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 64: warning: (MISRA-C:2004 5.7/A) No identifier name should be reused ("rem")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 64: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("ldiv_t")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 67: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 67: warning: (MISRA-C:2004 5.7/A) No identifier name should be reused ("quot")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 67: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 67: warning: (MISRA-C:2004 5.7/A) No identifier name should be reused ("rem")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 69: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("MB_CUR_MAX")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 83: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("wchar_t")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 87: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("EXIT_FAILURE")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 88: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("EXIT_SUCCESS")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 90: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("RAND_MAX")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 92: warning: (MISRA-C:2004 19.1/A) #include statements in a file should only be preceded by other preprocessor directives or comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 101: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 101: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 101: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("abs")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 101: warning: (MISRA-C:2004 16.4/R) The identifiers used in the declaration and definition of a function shall be identical
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 102: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 102: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 102: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("labs")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 102: warning: (MISRA-C:2004 16.4/R) The identifiers used in the declaration and definition of a function shall be identical
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 104: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 104: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 104: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 104: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 106: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 106: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("atoi")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 107: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 107: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("atol")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 109: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 109: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 111: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 111: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 112: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 112: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("atof")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 114: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 114: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 114: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("strtol")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 115: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 116: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 115: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("strtoul")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 118: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 118: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 118: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 119: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 119: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 120: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 122: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 123: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 123: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("strtod")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 124: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 124: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 126: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 126: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("rand")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 127: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("srand")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 129: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("calloc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 131: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("malloc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 133: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("realloc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 135: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("free")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 139: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("abort")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 142: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 142: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("atexit")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 144: warning: (MISRA-C:2004 16.3/R) Identifiers shall be given for all of the parameters in a function prototype declaration
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 145: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("bsearch")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 148: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("qsort")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 151: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 151: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("exit")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 153: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 153: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 153: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("div")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 154: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 154: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 154: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("ldiv")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 156: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 156: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 156: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 156: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 159: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("getenv")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 160: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 160: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("system")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 162: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 162: warning: (MISRA-C:2004 16.3/R) Identifiers shall be given for all of the parameters in a function prototype declaration
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 162: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("mblen")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 163: warning: (MISRA-C:2004 16.3/R) Identifiers shall be given for all of the parameters in a function prototype declaration
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 163: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("mbstowcs")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 164: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 164: warning: (MISRA-C:2004 16.3/R) Identifiers shall be given for all of the parameters in a function prototype declaration
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 164: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("mbtowc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 166: warning: (MISRA-C:2004 16.3/R) Identifiers shall be given for all of the parameters in a function prototype declaration
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 166: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("wcstombs")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 167: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 167: warning: (MISRA-C:2004 16.3/R) Identifiers shall be given for all of the parameters in a function prototype declaration
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 167: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("wctomb")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 217: warning: (MISRA-C:2004 19.15/R) Precautions shall be taken in order to prevent the contents of a header file being included twice
+"../doubly_linked_list.c", line 39: warning: (MISRA-C:2004 20.4/R) Dynamic heap memory allocation shall not be used ("free")
+"../doubly_linked_list.c", line 43: warning: (MISRA-C:2004 20.4/R) Dynamic heap memory allocation shall not be used ("free")
+"../doubly_linked_list.c", line 30: warning: (MISRA-C:2004 14.7/R) A function shall have a single point of exit at the end of the function
+"../doubly_linked_list.c", line 51: warning: (MISRA-C:2004 20.4/R) Dynamic heap memory allocation shall not be used ("malloc")
+"../doubly_linked_list.c", line 64: warning: (MISRA-C:2004 17.6/R) The address of an object with automatic storage shall not be assigned to another object that may persist after the first object has ceased to exist ("location_ie")
+"../doubly_linked_list.c", line 105: warning: (MISRA-C:2004 20.4/R) Dynamic heap memory allocation shall not be used ("free")
+"../doubly_linked_list.c", line 83: warning: (MISRA-C:2004 14.7/R) A function shall have a single point of exit at the end of the function
+"../doubly_linked_list.c", line 121: warning: (MISRA-C:2004 20.9/R) The input/output library <stdio.h> shall not be used in production code ("printf")
+[functions.c]
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 42: warning: (MISRA-C:2004 1.1/R) Ensure strict ANSI C mode (-ps) is enabled
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 205: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 206: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 207: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 208: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 209: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 210: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 212: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 213: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 215: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 216: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 220: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 221: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/inttypes.h", line 53: warning: (MISRA-C:2004 19.1/A) #include statements in a file should only be preceded by other preprocessor directives or comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/_fmt_specifier.h", line 233: warning: (MISRA-C:2004 19.15/R) Precautions shall be taken in order to prevent the contents of a header file being included twice
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/inttypes.h", line 57: warning: (MISRA-C:2004 19.1/A) #include statements in a file should only be preceded by other preprocessor directives or comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/linkage.h", line 56: warning: (MISRA-C:2004 19.4/R) C macros shall only expand to a braced initialiser, a constant, a string literal, a parenthesised expression, a type qualifier, a storage class specifier, or a do-while-zero construct
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/linkage.h", line 60: warning: (MISRA-C:2004 19.4/R) C macros shall only expand to a braced initialiser, a constant, a string literal, a parenthesised expression, a type qualifier, a storage class specifier, or a do-while-zero construct
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/linkage.h", line 72: warning: (MISRA-C:2004 19.4/R) C macros shall only expand to a braced initialiser, a constant, a string literal, a parenthesised expression, a type qualifier, a storage class specifier, or a do-while-zero construct
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/linkage.h", line 74: warning: (MISRA-C:2004 19.4/R) C macros shall only expand to a braced initialiser, a constant, a string literal, a parenthesised expression, a type qualifier, a storage class specifier, or a do-while-zero construct
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/inttypes.h", line 62: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/inttypes.h", line 64: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../functions.h", line 15: warning: (MISRA-C:2004 16.3/R) Identifiers shall be given for all of the parameters in a function prototype declaration
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 47: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 55: warning: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 56: warning: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 57: warning: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 58: warning: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 62: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 62: warning: (MISRA-C:2004 5.7/A) No identifier name should be reused ("quot")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 62: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 62: warning: (MISRA-C:2004 5.7/A) No identifier name should be reused ("rem")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 62: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("div_t")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 64: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 64: warning: (MISRA-C:2004 5.7/A) No identifier name should be reused ("quot")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 64: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 64: warning: (MISRA-C:2004 5.7/A) No identifier name should be reused ("rem")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 64: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("ldiv_t")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 67: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 67: warning: (MISRA-C:2004 5.7/A) No identifier name should be reused ("quot")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 67: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 67: warning: (MISRA-C:2004 5.7/A) No identifier name should be reused ("rem")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 69: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("MB_CUR_MAX")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 72: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("NULL")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 77: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("size_t")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 83: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("wchar_t")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 87: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("EXIT_FAILURE")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 88: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("EXIT_SUCCESS")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 90: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("RAND_MAX")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 92: warning: (MISRA-C:2004 19.1/A) #include statements in a file should only be preceded by other preprocessor directives or comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 101: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 101: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 101: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("abs")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 101: warning: (MISRA-C:2004 16.4/R) The identifiers used in the declaration and definition of a function shall be identical
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 102: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 102: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 102: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("labs")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 102: warning: (MISRA-C:2004 16.4/R) The identifiers used in the declaration and definition of a function shall be identical
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 104: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 104: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 104: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 104: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 106: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 106: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("atoi")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 107: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 107: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("atol")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 109: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 109: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 111: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 111: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 112: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 112: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("atof")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 114: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 114: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 114: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("strtol")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 115: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 116: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 115: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("strtoul")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 118: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 118: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 118: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 119: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 119: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 120: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 122: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 123: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 123: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("strtod")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 124: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 124: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 126: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 126: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("rand")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 127: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("srand")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 129: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("calloc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 131: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("malloc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 133: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("realloc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 135: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("free")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 139: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("abort")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 142: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 142: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("atexit")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 144: warning: (MISRA-C:2004 16.3/R) Identifiers shall be given for all of the parameters in a function prototype declaration
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 145: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("bsearch")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 148: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("qsort")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 151: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 151: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("exit")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 153: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 153: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 153: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("div")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 154: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 154: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 154: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("ldiv")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 156: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 156: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 156: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 156: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 159: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("getenv")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 160: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 160: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("system")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 162: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 162: warning: (MISRA-C:2004 16.3/R) Identifiers shall be given for all of the parameters in a function prototype declaration
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 162: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("mblen")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 163: warning: (MISRA-C:2004 16.3/R) Identifiers shall be given for all of the parameters in a function prototype declaration
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 163: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("mbstowcs")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 164: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 164: warning: (MISRA-C:2004 16.3/R) Identifiers shall be given for all of the parameters in a function prototype declaration
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 164: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("mbtowc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 166: warning: (MISRA-C:2004 16.3/R) Identifiers shall be given for all of the parameters in a function prototype declaration
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 166: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("wcstombs")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 167: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 167: warning: (MISRA-C:2004 16.3/R) Identifiers shall be given for all of the parameters in a function prototype declaration
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 167: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("wctomb")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdlib.h", line 217: warning: (MISRA-C:2004 19.15/R) Precautions shall be taken in order to prevent the contents of a header file being included twice
+"../functions.c", line 12: warning: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../functions.c", line 15: warning: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../functions.c", line 19: warning: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../functions.c", line 24: warning: (MISRA-C:2004 16.3/R) Identifiers shall be given for all of the parameters in a function prototype declaration
+"../functions.c", line 29: warning: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+[main.c]
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 42: warning: (MISRA-C:2004 1.1/R) Ensure strict ANSI C mode (-ps) is enabled
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 205: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 206: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 207: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 208: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 209: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 210: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 212: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 213: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 215: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 216: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 220: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdint.h", line 221: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/inttypes.h", line 53: warning: (MISRA-C:2004 19.1/A) #include statements in a file should only be preceded by other preprocessor directives or comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/_fmt_specifier.h", line 233: warning: (MISRA-C:2004 19.15/R) Precautions shall be taken in order to prevent the contents of a header file being included twice
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/inttypes.h", line 57: warning: (MISRA-C:2004 19.1/A) #include statements in a file should only be preceded by other preprocessor directives or comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/linkage.h", line 56: warning: (MISRA-C:2004 19.4/R) C macros shall only expand to a braced initialiser, a constant, a string literal, a parenthesised expression, a type qualifier, a storage class specifier, or a do-while-zero construct
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/linkage.h", line 60: warning: (MISRA-C:2004 19.4/R) C macros shall only expand to a braced initialiser, a constant, a string literal, a parenthesised expression, a type qualifier, a storage class specifier, or a do-while-zero construct
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/linkage.h", line 72: warning: (MISRA-C:2004 19.4/R) C macros shall only expand to a braced initialiser, a constant, a string literal, a parenthesised expression, a type qualifier, a storage class specifier, or a do-while-zero construct
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/linkage.h", line 74: warning: (MISRA-C:2004 19.4/R) C macros shall only expand to a braced initialiser, a constant, a string literal, a parenthesised expression, a type qualifier, a storage class specifier, or a do-while-zero construct
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/inttypes.h", line 62: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/inttypes.h", line 64: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../functions.h", line 15: warning: (MISRA-C:2004 16.3/R) Identifiers shall be given for all of the parameters in a function prototype declaration
+"../main.c", line 5: warning: (MISRA-C:2004 20.9/R) The input/output library <stdio.h> shall not be used in production code
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 47: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("va_list")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 63: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("va_end")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 63: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 79: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("va_start")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 79: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 79: warning: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "_ap" is used as an operand of # or ##.
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 137: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("va_arg")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 137: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 137: warning: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "_ap" is used as an operand of # or ##.
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 137: warning: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "_type" is used as an operand of # or ##.
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 137: warning: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "_ap" is used as an operand of # or ##.
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 137: warning: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "_ap" is used as an operand of # or ##.
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 137: warning: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "_ap" is used as an operand of # or ##.
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 137: warning: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "_ap" is used as an operand of # or ##.
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 137: warning: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "_type" is used as an operand of # or ##.
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 137: warning: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "_ap" is used as an operand of # or ##.
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 137: warning: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "_ap" is used as an operand of # or ##.
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 137: warning: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "_type" is used as an operand of # or ##.
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdarg.h", line 137: warning: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "_ap" is used as an operand of # or ##.
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 49: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 57: warning: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 58: warning: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 59: warning: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 60: warning: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 69: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("size_t")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 73: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 78: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 79: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("FILE")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 83: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fpos_t")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 93: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("_IOFBF")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 94: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("_IOLBF")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 95: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("_IONBF")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 107: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 108: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 109: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 110: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 111: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 116: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("BUFSIZ")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 118: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("FOPEN_MAX")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 118: warning: (MISRA-C:2004 19.4/R) C macros shall only expand to a braced initialiser, a constant, a string literal, a parenthesised expression, a type qualifier, a storage class specifier, or a do-while-zero construct
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 119: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("FILENAME_MAX")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 120: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("TMP_MAX")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 127: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("stdin")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 128: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("stdout")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 129: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("stderr")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 132: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("L_tmpnam")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 132: warning: (MISRA-C:2004 19.4/R) C macros shall only expand to a braced initialiser, a constant, a string literal, a parenthesised expression, a type qualifier, a storage class specifier, or a do-while-zero construct
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 135: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("SEEK_SET")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 136: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("SEEK_CUR")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 137: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("SEEK_END")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 140: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("NULL")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 144: warning: (MISRA-C:2004 20.1/R) Reserved identifiers, macros and functions in the standard library, shall not be defined, redefined or undefined ("EOF")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 166: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 166: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("remove")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 167: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 167: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("rename")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 168: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("tmpfile")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 169: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("tmpnam")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 174: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 174: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fclose")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 175: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fopen")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 176: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("freopen")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 178: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("setbuf")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 179: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 180: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 179: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("setvbuf")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 181: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 181: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fflush")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 186: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 186: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fprintf")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 188: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 188: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fscanf")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 190: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 190: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("printf")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 192: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 192: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("scanf")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 194: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 194: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("sprintf")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 196: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 199: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 199: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("sscanf")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 201: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 201: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("vfprintf")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 203: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 205: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 205: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("vprintf")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 207: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 209: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 209: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("vsprintf")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 212: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 215: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 221: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 221: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fgetc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 222: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 222: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fgets")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 224: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 224: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 224: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fputc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 225: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 225: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fputs")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 226: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 226: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("getc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 227: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 227: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("getchar")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 228: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("gets")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 229: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 229: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 229: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("putc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 230: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 230: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 230: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("putchar")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 231: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 231: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("puts")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 232: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 232: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 232: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("ungetc")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 237: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fread")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 239: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fwrite")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 245: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 245: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fgetpos")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 246: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 246: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 247: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 246: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fseek")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 248: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 248: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("fsetpos")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 249: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 249: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("ftell")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 250: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("rewind")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 255: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("clearerr")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 256: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 256: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("feof")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 257: warning: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 257: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("ferror")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 258: warning: (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("perror")
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 260: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 260: warning: (MISRA-C:2004 19.4/R) C macros shall only expand to a braced initialiser, a constant, a string literal, a parenthesised expression, a type qualifier, a storage class specifier, or a do-while-zero construct
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 261: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 261: warning: (MISRA-C:2004 19.4/R) C macros shall only expand to a braced initialiser, a constant, a string literal, a parenthesised expression, a type qualifier, a storage class specifier, or a do-while-zero construct
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 262: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 264: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 266: warning: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"/home/uros/PPURV/dani/dan8/c6000_7.4.23/include/stdio.h", line 274: warning: (MISRA-C:2004 19.15/R) Precautions shall be taken in order to prevent the contents of a header file being included twice
+"../main.c", line 21: warning: (MISRA-C:2004 9.1/R) All automatic variables shall have been assigned a value before being used (variable "list")
+"../main.c", line 24: warning: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../main.c", line 25: warning: (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+"../main.c", line 26: warning: (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+"../main.c", line 27: warning: (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+"../main.c", line 28: warning: (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+"../main.c", line 29: warning: (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+"../main.c", line 30: warning: (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+"../main.c", line 32: warning: (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+"../main.c", line 36: warning: (MISRA-C:2004 20.9/R) The input/output library <stdio.h> shall not be used in production code ("printf")
+"../main.c", line 37: warning: (MISRA-C:2004 16.3/R) Identifiers shall be given for all of the parameters in a function prototype declaration
+"../main.c", line 37: warning: a value of type "boolean (*)(const double_linked_data *)" cannot be used to initialize an entity of type "boolean (*)(double_linked_data *)"
+ 
+
+23:39:26 Build Finished (took 965ms)
+
+
